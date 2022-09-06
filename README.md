@@ -4,6 +4,11 @@
 <p align="left"> <a href="https://twitter.com/lucasfriedrichh" target="blank"><img src="https://img.shields.io/twitter/follow/lucasfriedrichh?logo=twitter&style=for-the-badge" alt="lucasfriedrichh" /></a> </p>
 
 - 📫 How to reach me **frielucas@gmail.com**
+- 🌱 Main areas of interest:
+  - Full Stack development
+  - Data Science
+  - Data Engeneering
+  - Artificial Intelligence
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
