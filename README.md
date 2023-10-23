@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Currently, I work in web development at the Software Factory, which is an extension project at the University of Passo Fundo. This is the university where I am currently pursuing my undergraduate degree.
+Currently, I work in web development at Fabrica de Software, which is an extension project at the University of Passo Fundo. This is the university where I am currently pursuing my undergraduate degree.
 
 - :closed_book: I have experience in web development, primarily in the back-end stack, using Java and PHP. My focus is on creating new features and performing maintenance within the project to which I am assigned. I'm passionate about the field of data science. I am involved in voluntary research with the Mosaico Group, also based at UPF (University of Passo Fundo).
 
