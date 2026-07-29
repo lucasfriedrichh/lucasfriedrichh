@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas 👋
 
-Backend engineer in Passo Fundo, Brazil. I work mostly in **Python (FastAPI)** and **Java**, on systems where being wrong is expensive — academic workload planning, laboratory quality control, field data collection.
+Backend engineer in Passo Fundo, Brazil. I work mostly in **Python (FastAPI)** and **Java**, on systems where being wrong is expensive - academic workload planning, laboratory quality control, field data collection.
 
 The thing I care about most is **server-side authority**: calculations, permissions and state get validated in the backend, never trusted from the client. I write decision records so the reasoning survives the commit.
 
