@@ -8,6 +8,7 @@ The thing I care about most is **server-side authority**: calculations, permissi
 
 - 🔭 Building an **offline-first sync service** — idempotent batch operations, optimistic concurrency, and a sequence-based change feed that survives clock skew
 - 🧪 Leading development of a multi-tenant laboratory quality-control platform, currently in validation with 10+ labs
+- 🌱 Working on Chão de Valor, an agtech platform for soil analysis — I built the offline-first field app and the batch sync layer behind it
 - 🎓 MSc in Applied Computing at UPF, researching predictive modeling for teaching-workload allocation
 - 🌍 Italian (EU) citizen — open to remote roles, no visa sponsorship needed
 
