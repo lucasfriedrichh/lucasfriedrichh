@@ -16,7 +16,7 @@ The thing I care about most is **server-side authority**: calculations, permissi
 
 - Refactored a 7-year-old university scheduling system used by 470+ professors, cutting main-interface load time from 10s to 2–3s
 - Built AI and regression models for an agricultural machinery manufacturer, owning the accuracy testing that decided whether a model could be trusted
-- Designed a gamification engine serving 1,500+ students
+- Designed a gamification engine serving 4,500+ students
 - Wrote the sync layer that lets agronomists collect georeferenced soil samples with no signal at all — idempotency keys, retry with exponential backoff, per-item results, so a truck driving out of coverage never loses a sample
 
 **Stack**
